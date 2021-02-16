@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am ohcheesy on github.
+  * I am ohcheesy (https://keybase.io/ohcheesy) on keybase.
+  * I have a public key ASCNktFEaiTzZfbfAvhbtJzlPYT0hbp22lUBV8QzHkPtawo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208d92d1446a24f365f6df02f85bb49ce53d84f485ba76da550157c4331e43ed6b0a",
+      "host": "keybase.io",
+      "kid": "01208d92d1446a24f365f6df02f85bb49ce53d84f485ba76da550157c4331e43ed6b0a",
+      "uid": "372c79a9d41cdc8981b2f367b780e419",
+      "username": "ohcheesy"
+    },
+    "merkle_root": {
+      "ctime": 1613464383,
+      "hash": "8cd1a0c6cdcd51cb615c506603bf71fe454d6d75767c159963b0322255eb4e3719961838f8a602fb61cf2a4f6f03fbc7d25cf4dd9581bce7e465feb84578d77e",
+      "hash_meta": "6564ba70269eeb08803e5c449002dd67cc7be859e506dc7cfa2b908ac846d769",
+      "seqno": 19126023
+    },
+    "service": {
+      "entropy": "vQNEJ3qWtJVoKET81ltWFRhR",
+      "name": "github",
+      "username": "ohcheesy"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.0"
+  },
+  "ctime": 1613464387,
+  "expire_in": 504576000,
+  "prev": "57a208a83a64435b3d74e2b7f84c74abb01721824651b5c6554fdf157c28a8e6",
+  "seqno": 9,
+  "tag": "signature"
+}
+```
+
+with the key [ASCNktFEaiTzZfbfAvhbtJzlPYT0hbp22lUBV8QzHkPtawo](https://keybase.io/ohcheesy), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgjZLRRGok82X23wL4W7Sc5T2E9IW6dtpVAVfEMx5D7WsKp3BheWxvYWTESpcCCcQgV6IIqDpkQ1s9dOK3+Ex0q7AXIYJGUbXGVU/fFXwoqObEIOMNNFiTl6miduuxEk96sU9cELJ4hWmTnbbRknUCeg77AgHCo3NpZ8RA7gWCUjf9iO3kc4bID6+8TvKeZDZaIHIAD16dl4FAktqCkxmSM/WLcdljnfbTadHAg0mHVN1JzbE6ZZpvpFfoAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMSAayRYeDHaqtaMr3jAMZiM2Zuzk63K2k9vEp4BORw7o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/ohcheesy
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id ohcheesy
+```
